@@ -9,7 +9,7 @@ How to build:
 
 * Install VS2017: https://visualstudio.microsoft.com/zh-hans/vs/
 * Install QT 5.10 http://download.qt.io/official_releases/qt/5.10/5.10.1/qt-opensource-windows-x86-5.10.1.exe
-* Download Jom: http://download.qt-project.org/official_releases/jom/jom.zip and unpack to c:\QT\jom
+* Download Jom: http://download.qt-project.org/official_releases/jom/jom.zip and unpack to C:\Qt\Qt5.10.1\5.10.1\msvc2017_64\bin\jom.exe
 
 * run build_console_win.bat && build_diedll_win.bat && build_dielib_win.bat
 
