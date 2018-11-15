@@ -1,7 +1,7 @@
 DIE-engine
 ==========
 
-DIE engine modified for zengge especially for VS2017 64Bit and QT 5.X on Windows 10 64 Bit
+DIE engine modified by zengge especially for VS2017 64Bit and QT 5.X on Windows 10 64 Bit
 
 How to build:
 ==========
